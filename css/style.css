@@ -92,13 +92,13 @@ body {
         width: 100%;
         font-family: 'Poppins', sans-serif;
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
         align-items: center;
         text-align: center;
 }
 
 .solicitud {
-    width: 40%;
+    width: 100%;
 }
 
 .title-paragraph {
